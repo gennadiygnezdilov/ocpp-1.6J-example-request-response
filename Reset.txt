@@ -1,5 +1,5 @@
 Sending a command to the charging station
 [2," 15455","Reset",{"type":"Hard"}]
 
-Charging Station Answer 
+Charging station response
 [3, "15455", {"status": "Accepted"}]
