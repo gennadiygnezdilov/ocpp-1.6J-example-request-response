@@ -1,0 +1,7 @@
+Request from the charging station
+[2,"15455","BootNotification",{"chargePointVendor":"vekon","chargePointModel":"","chargePointSerialNumber":"","chargeBoxSerialNumber":"","firmwareVersion":"","meterType":""}]
+
+Server response
+[3," 15455 ",{"currentTime":"2022-12-02T15:08:43.882Z","interval":60,"status":"Accepted"}]
+
+In the server response, set the current time of the heartbeat interval in seconds
