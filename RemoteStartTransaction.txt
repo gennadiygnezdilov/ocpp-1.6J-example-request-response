@@ -3,3 +3,5 @@ Sending a command to the charging station
 
 Charging Station Answer 
 [3,"15455",{"status":"Accepted"}]
+
+Additionally, the StartTransaction command will come from the charging station, see the description in another file how to respond
