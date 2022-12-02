@@ -1,1 +1,6 @@
 
+Request from the charging station
+[2,"15455","StatusNotification",{"connectorId":0,"errorCode":"NoError","status":"Available","timestamp":"2022-12-02T15:08:43.001Z"}]
+
+Server response
+[3,"15455",{}]
