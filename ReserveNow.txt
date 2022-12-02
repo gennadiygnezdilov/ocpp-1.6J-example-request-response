@@ -1,5 +1,5 @@
 Sending a command to the charging station
-[2,"15455","ReserveNow",{"connectorId":1,"expiryDate":"2022-11-25T11:33:01.020Z","idTag":"idTag_Charger","reservationId":202274734}]
+[2,"15455","ReserveNow",{"connectorId":1,"expiryDate":"2022-11-25T11:33:01.020Z","idTag":"idTag_Charger","reservationId":870511417}]
 
-Charging Station Answer 
+Charging station response
 [3,"15455",{"status":"Accepted"}]
