@@ -1,2 +1,1 @@
-# OCPPphp
-Working PHP script with OCPP 1.6 JSON protocol
+The OCPP 1.6J communication protocol between the charging station and the server is not as complicated as the instructions and official documentation may describe. For several years of work, I realized one important thing, it doesn’t matter what programming language you are implementing in, the most important thing is to understand that the server should respond to charging stations. In this manual, I describe sample responses for commands in JSON format.
