@@ -1,0 +1,5 @@
+Sending a command to the charging station
+[2,"15455","CancelReservation",{"reservationId":870511417}]
+
+Charging station response
+[3,"15455",{"status":"Accepted"}]
