@@ -1,0 +1,5 @@
+Sending a command to the charging station
+[2,"15455","RemoteStopTransaction",{"transactionId":546295560}]
+
+Charging Station Answer 
+[3,"15455",{"status":"Accepted"}]
