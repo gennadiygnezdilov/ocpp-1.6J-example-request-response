@@ -1,0 +1,5 @@
+Request from the charging station 
+[2,"15455","StartTransaction",{"connectorId":1,"idTag":" idTag_Charger","meterStart":0,"timestamp":"2022-11-21T14:55:45.341Z"}]
+
+Server response
+[3,"15455",{"idTagInfo":{"parentIdTag":"","status":"Accepted"},"transactionId":214988465}]
