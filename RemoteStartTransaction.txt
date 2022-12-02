@@ -1,7 +1,7 @@
 Sending a command to the charging station
 [2,"15455","RemoteStartTransaction",{"idTag":"idTag_Charger","connectorId":1}]
 
-Charging Station Answer 
+Charging station response
 [3,"15455",{"status":"Accepted"}]
 
 Additionally, the StartTransaction command will come from the charging station, see the description in another file how to respond
