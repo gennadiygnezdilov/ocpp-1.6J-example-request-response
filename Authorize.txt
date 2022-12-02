@@ -1,1 +1,5 @@
+Request from the charging station
+[2,"01221201194032","Authorize",{"idTag":"D0431F35"}]
 
+Server response
+[3,"01221201194032",{"idTagInfo":{"status ":" Accepted"}}]
