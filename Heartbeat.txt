@@ -1,0 +1,5 @@
+Request from the charging station
+[2,"15455","Heartbeat",{}]
+
+Server response
+[3,"15455",{"currentTime":"2022-12-02T15:45:02.443Z"}]
