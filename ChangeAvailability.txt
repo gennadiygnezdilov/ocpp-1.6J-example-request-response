@@ -1,0 +1,11 @@
+Sending a command to the charging station
+[2,"3786718","ChangeAvailability",{"connectorId":0,"type":"Inoperative"}]
+
+If you specify connectorId = 0, all guns are blocked, if 1 or 2 or 3, then blocking or unblocking will only be on this gun
+
+type = Inoperative (Charge point is not available for charging.)
+type = Operative (Charge point is available for charging.)
+
+
+Charging station response
+[3,"15455",{"status":"Accepted"}]
